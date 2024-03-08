@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom';
 
 import './css/style.css';
-
+ let varto = 'redeploy'
 
 // Import pages
 import Dashboard from './pages/Dashboard';
